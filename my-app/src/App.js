@@ -10,14 +10,14 @@ function App() {
     <img src = {
       Logo
     }
-    className = "App-logo img-fluid max-width=300px"
+    className = "App-logo img-fluid max-width=300px "
     alt = "logo" />
     </header>
      <main >
     <Dictionary/>
     </main> 
     <footer>
-    This project was coded by Aga and is {
+    This project was coded by Mariya Harizanova and is {
       " "
     } <a href = "https://github.com/mharizanova8703/dictionary-search"
     target = "_blank"
