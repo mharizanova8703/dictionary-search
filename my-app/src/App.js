@@ -19,16 +19,15 @@ function App() {
     <footer>
     This project was coded by Aga and is {
       " "
-    } <a href = "https://github.com/agguuaa/dictionary-react"
+    } <a href = "https://github.com/mharizanova8703/dictionary-search"
     target = "_blank"
-    rel = "noopener noreferrer" >
-    open - sourced on GitHub 
+    rel = "noopener noreferrer">
+    open-sourced on GitHub 
     </a>{" "}
     and {
       " "
-    } <a href = "https://app.netlify.com/sites/elaborate-jalebi-07c736/overview"
-    target = "_blank"
-    rel = "noopener noreferrer" >
+    } <a href = ""
+target = "_blank"rel = "noopener noreferrer" >
     hosted on Netlify </a> </footer> 
     </div>
      </div>
